@@ -1,4 +1,4 @@
 # This is a e-commerce project
 I am creating this repository to manage my project related to e-commerce website.
 <br>
-Author - Ayush Bhaskatr Bhujade
+Author - Ayush Bhaskar Bhujade
